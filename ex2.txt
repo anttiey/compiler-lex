@@ -1,0 +1,6 @@
+abc123def = 4%4;
+len = .1392
+result + "this
+is a string or not"
+"this\n is a string"
+len++;
